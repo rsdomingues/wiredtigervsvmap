@@ -1,0 +1,15 @@
+ribbon:
+  eureka:
+    enabled: false
+
+thread.pool:
+  name: asyncExecutor
+  size: 15
+
+spring:
+  data:
+    mongodb:
+      database: arquitecture-reference
+      host: localhost
+      port: 27017
+  mvc.async.request-timeout: 10000

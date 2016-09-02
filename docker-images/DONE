@@ -1,0 +1,11 @@
+DONE
+- Clean Arch
+- Swagger-ui
+- Docker for dependencies
+- Docker build
+- Sonar Issues
+- Code Coverage with spock
+- Spring Cloud Config
+- hystrix/feing configuration
+
+
